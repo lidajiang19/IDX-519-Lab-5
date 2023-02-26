@@ -19,7 +19,7 @@ h1{
 }
 
 .topline{
-  color: white 80%;
+  font-style: white;
   font-size: 16px;
   font-weight: bold;
   background-color: #256cf6;
