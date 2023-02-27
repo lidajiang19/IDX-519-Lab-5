@@ -1,7 +1,7 @@
 td, th{
-	border: 1px solid;
+	border-bottom: 1px solid #d4d4d4;
   font-family: sans-serif;
-  padding: 8px;
+  padding: 16px;
   color: #222;
   text-align: left;
   }
