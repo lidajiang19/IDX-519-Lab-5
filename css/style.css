@@ -1,4 +1,4 @@
-td, th{
+td, th.column{
 	border-bottom: 1px solid #d4d4d4;
   font-family: sans-serif;
   padding: 16px;
