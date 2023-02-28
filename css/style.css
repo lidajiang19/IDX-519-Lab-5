@@ -35,8 +35,10 @@ h1{
 .header{
   color:white
   font-size: 16px;
+  font-family: sans-serif;
   font-weight: bold;
   background-color: #256cf6;
+  padding: 32px;
 }
 
 img{
