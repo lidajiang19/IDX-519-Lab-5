@@ -15,7 +15,7 @@ tr:last-of-type{
 }
 
 /* active row need to work */
-tr:active {
+tr.selected {
   font-weight: bold;
   color:#256cf6
 }
