@@ -1,4 +1,4 @@
-td, th.column{
+td, .column{
 	border-bottom: 1px solid #d4d4d4;
   font-family: sans-serif;
   padding: 16px;
@@ -15,7 +15,7 @@ tr:last-of-type{
 }
 
 /* active row need to work */
-tr.active-row{
+tr:active {
   font-weight: bold;
   color:#256cf6
 }
@@ -32,7 +32,7 @@ h1{
   color: #222;
 }
 
-th.header{
+.header{
   color:white
   font-size: 16px;
   font-family: sans-serif;
